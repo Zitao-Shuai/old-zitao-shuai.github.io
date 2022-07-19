@@ -44,3 +44,11 @@ I'm looking for a Ph.d position on the topic of `Explainable AI` / `Causal Learn
 - Meritorious Winner in Mathematical Contest in Modeling
 - The Second Prize of Zhejiang University
 - The Second Prize of The Chinese Mathematics Competitions 
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/zitaoshuai.jpg" width="100%">
+    </td>
+  </tr>
+</table>
