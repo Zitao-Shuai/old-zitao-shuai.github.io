@@ -1,6 +1,6 @@
 # Welcome to Zitao Shuai's Home Pages
 
-## Zitao Shuai      帅子滔
+## Zitao Shuai
 
 ## Biography
 
