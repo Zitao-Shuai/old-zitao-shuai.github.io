@@ -13,25 +13,25 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 - Timeline: 2022.4 - 
 - Place: UC Davis CSC Lab
-- Topic: `CSCW` ; `AI-Human decision`
+- Topic: `CSCW` ; `AI-Human decision` ; `AI fairness`
 
 ### `Causal Inference & OOD learning`
 
 - Timeline: 2022.5 -
 - Place: Zhejiang University AI research centre
-- Topic:  `causal inference` ; `continual learning` ; `time series & state space`
+- Topic:  `causal inference` ; `incremental learning` ; `out of distribution`
 
 ### `SRTP` (Student research training program)
 
 - Timeline: 2022.3 -
 - Place: School of Economics of Zhejiang University
-- Topic: `option & derivative` ;`financial machine learning`
+- Topic: option & derivative;`financial machine learning`
 
 ### `Deep Research Training Plan`
 
 - Timeline: 2021.4 - 2022.4
 - Place: `CKC Honor College` of Zhejiang University & School of Management of Zhejiang University
-- Topic: `financial crisis forecasting`; 
+- Topic: AI + financial crisis forecasting; 
 
 ### `Summer Research Assitant`
 
