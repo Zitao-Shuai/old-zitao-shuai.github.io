@@ -44,3 +44,13 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 - Meritorious Winner in Mathematical Contest in Modeling
 - The Second Prize of Zhejiang University
 - The Second Prize of The Chinese Mathematics Competitions 
+
+## Research Motivation
+
+[about me](https://shuai3190105611.github.io/zitao-shuai.github.io/about)
+
+## Notes & ideas
+
+[notes for paper](https://shuai3190105611.github.io/zitao-shuai.github.io/notes/math)
+[notes for math](https://shuai3190105611.github.io/zitao-shuai.github.io/notes/math)
+[notes for presentation](https://shuai3190105611.github.io/zitao-shuai.github.io/notes/pre)
