@@ -47,7 +47,7 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 ## Research Motivation
 
-[about me](https://shuai3190105611.github.io/zitao-shuai.github.io/about)
+[about me](https://zitao-shuai.github.io/zitao-shuai.github.io/about)
 
 ## Notes & ideas
 
