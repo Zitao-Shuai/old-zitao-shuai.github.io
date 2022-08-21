@@ -51,9 +51,9 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 ## Notes & ideas
 
-[notes for paper](https://zitao-shuai.github.io/zitao-shuai.github.io/notes/math)
+[notes for paper](https://zitao-shuai.github.io/notes/math)
 
-[notes for math](https://zitao-shuai.github.io/zitao-shuai.github.io/notes/math)
+[notes for math](https://zitao-shuai.github.io/notes/math)
 
-[notes for presentation](https://zitao-shuai.github.io/zitao-shuai.github.io/notes/pre)
+[notes for presentation](https://zitao-shuai.github.io/notes/pre)
 
