@@ -10,3 +10,5 @@ This is a list of notes about the papers I've recently read.
 [Class-Incremental Domain Adaptation](https://zitao-shuai.github.io/notes/domain_adaptation_methods_3)
 
 # surveys
+
+# Domain generalization
