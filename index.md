@@ -9,17 +9,17 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 ## Research
 
+### `Causal learning & OOD learning & Domain generalization`
+
+- Timeline: 2022.5 -
+- Place: Zhejiang University AI research centre
+- Topic: `domain generalizatio` ; `causal inference` ; `incremental learning` ; `out of distribution`
+
 ### `AI-Human interaction`
 
 - Timeline: 2022.4 - 
 - Place: UC Davis CSC Lab
 - Topic: `CSCW` ; `AI-Human decision` ; `AI fairness`
-
-### `Causal Inference & OOD learning`
-
-- Timeline: 2022.5 -
-- Place: Zhejiang University AI research centre
-- Topic:  `causal inference` ; `incremental learning` ; `out of distribution`
 
 ### `SRTP` (Student research training program)
 
