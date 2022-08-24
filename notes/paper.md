@@ -9,6 +9,10 @@ This is a list of notes about the papers I've recently read.
 
 [Class-Incremental Domain Adaptation](https://zitao-shuai.github.io/notes/domain_adaptation_methods_3)
 
+[Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://zitao-shuai.github.io/notes/domain_generalization_methods_1)
+
+[PCL: Proxy-based Contrastive Learning for Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_2)
+
 # surveys
 
 # Domain generalization
