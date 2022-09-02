@@ -16,3 +16,7 @@ This is a list of notes about the papers I've recently read.
 [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://zitao-shuai.github.io/notes/domain_generalization_methods_1)
 
 [PCL: Proxy-based Contrastive Learning for Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_2)
+
+[Towards Principled Disentanglement for Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_3)
+
+[Causality Inspired Representation Learning for Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_4)
