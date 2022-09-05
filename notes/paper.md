@@ -21,4 +21,5 @@ This is a list of notes about the papers I've recently read.
 
 [Causality Inspired Representation Learning for Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_4)
 
-[THE ROLE OF DISENTANGLEMENT IN GENERALISATION](https://zitao-shuai.github.io/notes/domain_generalization_methods_)
+[THE ROLE OF DISENTANGLEMENT IN GENERALISATION](https://zitao-shuai.github.io/notes/domain_generalization_methods_5)
+5
