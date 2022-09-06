@@ -23,3 +23,4 @@ This is a list of notes about the papers I've recently read.
 
 [THE ROLE OF DISENTANGLEMENT IN GENERALISATION](https://zitao-shuai.github.io/notes/domain_generalization_methods_5)
 
+[Accounting for Unobserved Confounding in Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_6)
