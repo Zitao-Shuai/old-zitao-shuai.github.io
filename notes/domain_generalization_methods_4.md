@@ -1,4 +1,4 @@
-## Domain generalization - methods - 1
+## Domain generalization - methods - 4
 
 [`Zi-tao Shuai`'s comments](#`Zi-tao Shuai`'s comments)
 
