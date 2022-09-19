@@ -1,4 +1,4 @@
-## Domain Adaptation - methods - 2
+## Domain generalization - methods - 2
 
 [`Zi-tao Shuai`'s comments](#`Zi-tao Shuai`'s comments)
 
