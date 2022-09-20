@@ -26,3 +26,7 @@ This is a list of notes about the papers I've recently read.
 [Accounting for Unobserved Confounding in Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_6)
 
 [Distributionally Invariant Learning: Rationalization and Practical Algorithms](https://zitao-shuai.github.io/notes/domain_generalization_methods_7)
+
+[Test-time classifier adjustment module for model-agnostic domain generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_8)
+
+[TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION](https://zitao-shuai.github.io/notes/domain_generalization_methods_9)
