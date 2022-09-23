@@ -30,3 +30,5 @@ This is a list of notes about the papers I've recently read.
 [Test-time classifier adjustment module for model-agnostic domain generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_8)
 
 [TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION](https://zitao-shuai.github.io/notes/domain_generalization_methods_9)
+
+[DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation](https://zitao-shuai.github.io/notes/domain_generalization_methods_10)
