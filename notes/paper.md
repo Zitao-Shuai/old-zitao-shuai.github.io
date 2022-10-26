@@ -32,3 +32,9 @@ This is a list of notes about the papers I've recently read.
 [TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION](https://zitao-shuai.github.io/notes/domain_generalization_methods_9)
 
 [DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation](https://zitao-shuai.github.io/notes/domain_generalization_methods_10)
+
+[Adaptive Methods for Real-World Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_11)
+
+[Three scenarios for continual learning](https://zitao-shuai.github.io/notes/domain_generalization_methods_12)
+
+[On the Strong Correlation Between Model Invariance and Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_13)
