@@ -38,3 +38,7 @@ This is a list of notes about the papers I've recently read.
 [Three scenarios for continual learning](https://zitao-shuai.github.io/notes/domain_generalization_methods_12)
 
 [On the Strong Correlation Between Model Invariance and Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_13)
+
+[Diverse Weight Averaging for Out-of-Distribution Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_14)
+
+[Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting](https://zitao-shuai.github.io/notes/domain_generalization_methods_15)
