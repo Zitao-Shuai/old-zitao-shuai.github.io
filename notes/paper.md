@@ -42,3 +42,5 @@ This is a list of notes about the papers I've recently read.
 [Diverse Weight Averaging for Out-of-Distribution Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_14)
 
 [Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting](https://zitao-shuai.github.io/notes/domain_generalization_methods_15)
+
+[Learning with Feature and Distribution Evolvable Streams](https://zitao-shuai.github.io/notes/domain_generalization_methods_16)
