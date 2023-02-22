@@ -9,35 +9,51 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 ## Research
 
-### `Causal learning & OOD learning & Domain generalization`
+### `Continual Domain Generalization`
 
-- Timeline: 2022.5 -
-- Place: Zhejiang University AI research centre
-- Topic: `domain generalizatio` ; `causal inference` ; `incremental learning` ; `out of distribution`
+- Timeline: Aug 2022-Jan 2023
+- Institution: Institute of Artificial Intelligence, ZJU
+-	Motivation: Tackle the challenging problem of deploying the Domain Generalization model in the continual data stream.
+-	Method: Learn domain invariance from the data stream by fusing the new and old knowledge flexibly in a contrastive support space. Specifically, train a prior-optimized variational auto-encoder using a reconstruction loss to initialize a semantic preservation latent space; adopt contrastive learning to construct a contrastive support space, which is used to obtain exemplar data as memory to overcome the forgetting problem during stream training.
+-	Contribution: Propose a new task and provide a novel method to solve this problem.
+-	Product: A 2023SigKDD submitted paper, 1st author.
 
-### `AI-Human interaction`
+### `Internet Comments (nudge)’s Influence on Individuals’ High-level Thinking`
 
 - Timeline: 2022.4 - 
-- Place: UC Davis CSC Lab
-- Topic: `CSCW` ; `AI-Human decision` ; `AI fairness`
+- Institution: CSC Lab, UC Davis
+-	Motivation: Investigate if peers' thinking comments can help nudge individuals on higher-order thinking processes.
+-	Method: Complete user experiments on the well-designed prototypes based on our assumptions.
+-	Role: Implement the Deep Thinking Map prototype based on the Concept Map developed in our lab; help organize pilot experiments; literature surveying
+
 
 ### `SRTP` (Student research training program)
 
-- Timeline: 2022.3 -
-- Place: School of Economics of Zhejiang University
-- Topic: option & derivative;`financial machine learning`
+- Timeline: 2022.3 - 2023.3
+- Institution: School of Economics, ZJU
+-	Motivation: Investigate if CV methods can help extract image signals for pricing options and predict the volatility of assets.
+-	Method: Construct multi-modal data based on datasets from markets of derivates and that of their underlying assets; Use CNN as the encoder to extract image signals and utilize the representations to predict the volatility.
+-	Contribution: First introduce CNN methods to solve the volatility predicting problem; Introduce multi-modal concepts to the Machine Learning of the Asset Pricing domain.
+-	Product: A working paper, 1st author.
 
-### `Deep Research Training Plan`
+
+### `Machine Learning-Based Model for Financial Distress Prediction`
 
 - Timeline: 2021.4 - 2022.4
-- Place: `CKC Honor College` of Zhejiang University & School of Management of Zhejiang University
-- Topic: AI + financial crisis forecasting; 
+- Institution: School of Management, ZJU
+-	Motivation: Investigate if using deep learning with raw financial data will help predict financial distress.
+-	Method: Compare the performances of different algorithms with different types of data.
+-	Role: Paper writing; literature surveying; designing experiments.
+ 
 
-### `Summer Research Assitant`
+### `Spatio-temporal Data Compression`
 
-- Timeline: 2021.7 - 2021.9
-- Place: College of Computer Science and Technology of Zhejiang University & Aalborg University
-- Topic: time & spatio data clustering
+- Timeline: Jul-Sept 2021
+- Institution: Center of Data Science, ZJU
+-	Motivation: Solve the spatiotemporal data compression problem with the techniques for graph evolution.
+-	Method: Combine a particle-swarm-optimization-based graph clustering algorithm and a compression algorithm (a well-designed data structure ) for dynamic-evolution spatiotemporal data.
+-	Role: reproduce two baseline papers with C++ codes and run several large-scale datasets to conduct the case study.
+
 
 ## Awards
 
