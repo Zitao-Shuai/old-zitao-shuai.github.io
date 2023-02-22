@@ -61,10 +61,6 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 - The Second Prize of Zhejiang University
 - The Second Prize of The Chinese Mathematics Competitions 
 
-## Research Motivation
-
-
-
 ## Notes & ideas
 
 [notes for paper](https://zitao-shuai.github.io/notes/paper)
