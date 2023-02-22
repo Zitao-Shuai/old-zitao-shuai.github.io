@@ -20,16 +20,16 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 ### `Internet Comments (nudge)’s Influence on Individuals’ High-level Thinking`
 
-- Timeline: 2022.4 - 
+- Timeline: May-Sept 2022
 - Institution: CSC Lab, UC Davis
 -	Motivation: Investigate if peers' thinking comments can help nudge individuals on higher-order thinking processes.
 -	Method: Complete user experiments on the well-designed prototypes based on our assumptions.
 -	Role: Implement the Deep Thinking Map prototype based on the Concept Map developed in our lab; help organize pilot experiments; literature surveying
 
 
-### `SRTP` (Student research training program)
+### Machine Learning-Based Volatility Prediction
 
-- Timeline: 2022.3 - 2023.3
+- Timeline: Mar 2022 - Mar 2023
 - Institution: School of Economics, ZJU
 -	Motivation: Investigate if CV methods can help extract image signals for pricing options and predict the volatility of assets.
 -	Method: Construct multi-modal data based on datasets from markets of derivates and that of their underlying assets; Use CNN as the encoder to extract image signals and utilize the representations to predict the volatility.
@@ -39,7 +39,7 @@ I'm looking for a Ph.d position on the topic of `OOD` / `Domain generalization` 
 
 ### `Machine Learning-Based Model for Financial Distress Prediction`
 
-- Timeline: 2021.4 - 2022.4
+- Timeline: May 2021- May 2022
 - Institution: School of Management, ZJU
 -	Motivation: Investigate if using deep learning with raw financial data will help predict financial distress.
 -	Method: Compare the performances of different algorithms with different types of data.
