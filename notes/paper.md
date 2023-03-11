@@ -1,7 +1,7 @@
 This is a list of notes about the papers I've recently read.
-## Domain adaptation
+# Domain adaptation
 
-# methods
+## methods
 
 [Incremental Adversarial Domain Adaptation for Continually Changing Environments](https://zitao-shuai.github.io/notes/domain_adaptation_methods_1)
 
@@ -9,7 +9,6 @@ This is a list of notes about the papers I've recently read.
 
 [Class-Incremental Domain Adaptation](https://zitao-shuai.github.io/notes/domain_adaptation_methods_3)
 
-# surveys
 
 # Domain generalization
 
@@ -44,3 +43,17 @@ This is a list of notes about the papers I've recently read.
 [Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting](https://zitao-shuai.github.io/notes/domain_generalization_methods_15)
 
 [Learning with Feature and Distribution Evolvable Streams](https://zitao-shuai.github.io/notes/domain_generalization_methods_16)
+
+[Lifelong Domain Adaptation via Consolidated Internal Distribution](https://zitao-shuai.github.io/notes/domain_generalization_methods_17)
+
+[AdaXpert: Adapting Neural Architecture for Growing Data](https://zitao-shuai.github.io/notes/domain_generalization_methods_18)
+
+[SimMIM: a Simple Framework for Masked Image Modeling](https://zitao-shuai.github.io/notes/domain_generalization_methods_20)
+
+[SWAD: Domain Generalization by Seeking Flat Minima](https://zitao-shuai.github.io/notes/domain_generalization_methods_22)
+
+[MetaMask: Revisiting Dimensional Confounder for Self-Supervised Learning](https://zitao-shuai.github.io/notes/domain_generalization_methods_23)
+
+[Explainable Deep Classification Models for Domain Generalization](https://zitao-shuai.github.io/notes/domain_generalization_methods_24)
+
+[DIVA: Domain Invariant Variational Autoencoders](https://zitao-shuai.github.io/notes/domain_generalization_methods_25)
