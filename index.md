@@ -13,6 +13,7 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 
 - Timeline: Aug 2022-Jan 2023
 - Institution: Institute of Artificial Intelligence, ZJU
+- Instructor: [prof. Kun Kuang](https://kunkuang.github.io/)
 -	Motivation: Tackle the challenging problem of deploying the Domain Generalization model in the continual data stream.
 -	Method: Learn domain invariance from the data stream by fusing the new and old knowledge flexibly in a contrastive support space. Specifically, train a prior-optimized variational auto-encoder using a reconstruction loss to initialize a semantic preservation latent space; adopt contrastive learning to construct a contrastive support space, which is used to obtain exemplar data as memory to overcome the forgetting problem during stream training.
 -	Contribution: Propose a new task and provide a novel method to solve this problem.
@@ -22,6 +23,7 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 
 - Timeline: May-Sept 2022
 - Institution: CSC Lab, UC Davis
+- Instructor: [prof. Hao-Chuan Wang](http://www.haochuanwang.info/)
 -	Motivation: Investigate if peers' thinking comments can help nudge individuals on higher-order thinking processes.
 -	Method: Complete user experiments on the well-designed prototypes based on our assumptions.
 -	Role: Implement the Deep Thinking Map prototype based on the Concept Map developed in our lab; help organize pilot experiments; literature surveying
@@ -31,6 +33,7 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 
 - Timeline: Mar 2022 - Mar 2023
 - Institution: School of Economics, ZJU
+- Instructor: [prof. Xingguo Luo](https://person.zju.edu.cn/en/xingguo)
 -	Motivation: Investigate if CV methods can help extract image signals for pricing options and predict the volatility of assets.
 -	Method: Construct multi-modal data based on datasets from markets of derivates and that of their underlying assets; Use CNN as the encoder to extract image signals and utilize the representations to predict the volatility.
 -	Contribution: First introduce CNN methods to solve the volatility predicting problem; Introduce multi-modal concepts to the Machine Learning of the Asset Pricing domain.
@@ -41,6 +44,7 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 
 - Timeline: May 2021- May 2022
 - Institution: School of Management, ZJU
+- Instructor: [prof. Xingguo Luo](https://person.zju.edu.cn/en/dongwang)
 -	Motivation: Investigate if using deep learning with raw financial data will help predict financial distress.
 -	Method: Compare the performances of different algorithms with different types of data.
 -	Role: Paper writing; literature surveying; designing experiments.
