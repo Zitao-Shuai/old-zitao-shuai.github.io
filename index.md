@@ -44,7 +44,7 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 
 - Timeline: May 2021- May 2022
 - Institution: School of Management, ZJU
-- Instructor: [prof. Xingguo Luo](https://person.zju.edu.cn/en/dongwang)
+- Instructor: [prof. Wang Dong](https://person.zju.edu.cn/en/dongwang)
 -	Motivation: Investigate if using deep learning with raw financial data will help predict financial distress.
 -	Method: Compare the performances of different algorithms with different types of data.
 -	Role: Paper writing; literature surveying; designing experiments.
