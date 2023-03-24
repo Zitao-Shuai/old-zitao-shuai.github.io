@@ -4,7 +4,7 @@
 
 ## Biography
 
-Currently, I'm a senior student of [Zhejiang University](https://www.zju.edu.cn/english/) majored in Computer Science while minored in Finance. And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). I'll get my Bachelor degree in the [Department of computer science and technology](http://www.en.cs.zju.edu.cn/) at Zhejiang University advised by [prof. Kun Kuang](https://kunkuang.github.io/). 
+Currently, I'm a senior student of [Zhejiang University](https://www.zju.edu.cn/english/) majored in Computer Science and minored in Finance. And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). I'll get my Bachelor degree in the [Department of computer science and technology](http://www.en.cs.zju.edu.cn/) at Zhejiang University advised by [prof. Kun Kuang](https://kunkuang.github.io/). 
 My current research interests are `OOD` / `Domain generalization` / `Explainable AI` / `Causal Learning` / `Human centered AI` currently. 
 
 ## Research
