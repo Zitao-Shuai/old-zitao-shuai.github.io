@@ -4,7 +4,7 @@
 
 ## Biography
 
-Currently, I'm a master's student at the University of Michigan, majoring in Electrical and Computer Engineering (in the machine learning and image processing track). I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by [prof. Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU and in the [College of Economy](http://www.cec.zju.edu.cn/cecen/main.psp) of ZJU. 
+Currently, I'm a master's student at the [University of Michigan](https://umich.edu/), majoring in Electrical and Computer Engineering (in the machine learning and image processing track). I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by [prof. Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU and [prof. Xiaobin Liu](https://person.zju.edu.cn/en/0018064) in the [College of Economy](http://www.cec.zju.edu.cn/cecen/main.psp) of ZJU. 
 
 My current research interests are `Trustworthy AI`/`AI for Science` currently. 
 
@@ -14,8 +14,9 @@ My current research interests are `Trustworthy AI`/`AI for Science` currently.
 - Timeline: May 2023-Aug 2023
 - Institution: Institute of Artificial Intelligence, ZJU
 - Instructor: [prof. Kun Kuang](https://kunkuang.github.io/)
--	Motivation: 
--	Contribution: 
+-	Motivation: To ensure fairness in federated learning with healthcare institutions, we employ distributionally robust optimization to achieve consistent and high-performing federated models among diverse demographics.
+-	Contribution: presents a unified framework encompassing various fairness metrics in federated learning and devises an efficient and collaborative machine learning procedure for its implementation.
+-	Role: implement the idea and perform the experiments
 -	Product: A Cell Press Pattern 2023 submitted paper, co-first author.
 
 
