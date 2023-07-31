@@ -1,4 +1,4 @@
-This is a list of notes about the papers I've recently read.
+This is a list of notes about the papers of Domain Adaptation and Domain Generalization I've recently read.
 # Domain adaptation
 
 ## methods
