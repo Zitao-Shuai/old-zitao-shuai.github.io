@@ -4,10 +4,20 @@
 
 ## Biography
 
-Currently, I'm a senior student of [Zhejiang University](https://www.zju.edu.cn/english/) majored in Computer Science and minored in Finance. And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). I'll get my Bachelor degree in the [Department of computer science and technology](http://www.en.cs.zju.edu.cn/) at Zhejiang University advised by [prof. Kun Kuang](https://kunkuang.github.io/). 
-My current research interests are `OOD` / `Domain generalization` / `Explainable AI` / `Causal Learning` / `Human centered AI` currently. 
+Currently, I'm a master's student at the University of Michigan, majoring in Electrical and Computer Engineering (in the machine learning and image processing track). I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by [prof. Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU and in the [College of Economy](http://www.cec.zju.edu.cn/cecen/main.psp) of ZJU. 
+
+My current research interests are `Trustworthy AI`/`AI for Science` currently. 
 
 ## Research
+### `Unified Fair Federated Learning for Digital Healthcare`
+
+- Timeline: May 2023-Aug 2023
+- Institution: Institute of Artificial Intelligence, ZJU
+- Instructor: [prof. Kun Kuang](https://kunkuang.github.io/)
+-	Motivation: 
+-	Contribution: 
+-	Product: A Cell Press Pattern 2023 submitted paper, co-first author.
+
 
 ### `Continual Domain Generalization`
 
@@ -17,7 +27,7 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 -	Motivation: Tackle the challenging problem of deploying the Domain Generalization model in the continual data stream.
 -	Method: Learn domain invariance from the data stream by fusing the new and old knowledge flexibly in a contrastive support space. Specifically, train a prior-optimized variational auto-encoder using a reconstruction loss to initialize a semantic preservation latent space; adopt contrastive learning to construct a contrastive support space, which is used to obtain exemplar data as memory to overcome the forgetting problem during stream training.
 -	Contribution: Propose a new task and provide a novel method to solve this problem.
--	Product: A 2023SigKDD submitted paper, 1st author.
+-	Product: A NIPS 2023 submitted paper, 1st author.
 
 ### `Internet Comments (nudge)’s Influence on Individuals’ High-level Thinking`
 
@@ -34,21 +44,10 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 - Timeline: Mar 2022 - Mar 2023
 - Institution: School of Economics, ZJU
 - Instructor: [prof. Xingguo Luo](https://person.zju.edu.cn/en/xingguo)
--	Motivation: Investigate if CV methods can help extract image signals for pricing options and predict the volatility of assets.
--	Method: Construct multi-modal data based on datasets from markets of derivates and that of their underlying assets; Use CNN as the encoder to extract image signals and utilize the representations to predict the volatility.
--	Contribution: First introduce CNN methods to solve the volatility predicting problem; Introduce multi-modal concepts to the Machine Learning of the Asset Pricing domain.
+-	Motivation: Predicting trends in the high-frequency market suffers from the disturbance of the noisy trader. Based on the view of the latent factor model, the latent proxy(or representation) or the input data should be robust to the noisy signals.
+-	Method: We utilize an Auto-Encoder to construct the latent factor model for asset pricing. In order to learn stable proxies that generalize well on multiple market states, we utilize the contrastive learning approach to remove the influence of the noisy signals. To model the disturbance of the noises, we use a momentum-optimized encoder to generate pseudo representations for contrastive loss.
+-	Contribution: Based on the prospect of market micro-structure under the high-frequency setting, we consider the effect of noisy trading signals and utilize the machine learning method to remove the unwanted factors. Experiment results have verified the efficiency of our method, and our model has successfully captured the non-linear stable relationships between trends and the input trading data.
 -	Product: A working paper, 1st author.
-
-
-### `Machine Learning-Based Model for Financial Distress Prediction`
-
-- Timeline: May 2021- May 2022
-- Institution: School of Management, ZJU
-- Instructor: [prof. Wang Dong](https://person.zju.edu.cn/en/dongwang)
--	Motivation: Investigate if using deep learning with raw financial data will help predict financial distress.
--	Method: Compare the performances of different algorithms with different types of data.
--	Role: Paper writing; literature surveying; designing experiments.
- 
 
 ### `Spatio-temporal Data Compression`
 
@@ -63,7 +62,8 @@ My current research interests are `OOD` / `Domain generalization` / `Explainable
 
 - Meritorious Winner in Mathematical Contest in Modeling
 - The Second Prize of Zhejiang University
-- The Second Prize of The Chinese Mathematics Competitions 
+- The Second Prize in The Chinese Mathematics Competitions
+- Outstanding Graduate of Zhejiang University
 
 ## Notes & ideas
 
