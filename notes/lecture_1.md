@@ -1,4 +1,4 @@
-## Introduction for `CS229`
+## Introduction for CS229
 
 **Source**: [Stanford CS229M - Lecture 1: Overview, supervised learning, empirical risk minimization - YouTube](https://www.youtube.com/watch?v=I-tmjGFaaBg&list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh&index=1)
 
