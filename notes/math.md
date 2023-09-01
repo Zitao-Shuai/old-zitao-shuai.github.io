@@ -1,15 +1,15 @@
 This is the list of notes of the mathematical tool I've recently learned.
 
-# machine learning theory (based on cs229M)、
+# Machine Learning Theory (based on Stanford cs229M)
 
 [Introduction](https://zitao-shuai.github.io/notes/lecture_1.md)
 
 [Asymptotic Analysis](https://zitao-shuai.github.io/notes/lecture_2.md)
 
-# UMich eecs545 notes
+# UMich EECS501 notes
 
-forthcoming...
+[week1](https://zitao-shuai.github.io/notes/EECS501week_1.md)
 
-# Pattern Recognition and Machine Learning
+# UMich EECS551 notes
 
 forthcoming...
