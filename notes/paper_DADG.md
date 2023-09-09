@@ -2,7 +2,7 @@ This is a list of notes about the papers of Domain Adaptation and Domain General
 # Survey
 There are some help surveys.
 
-[(2022 TPAMI)Domain Generalization: A Surve](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9847099&casa_token=mmcxxknWmtEAAAAA:fA4IEdOXF1Y6iNa6RKsVay5P5p98OyyIRh2f8X-AsL2MSfyvEzemK3Yz0Y0z6TtNiebhgM9_e7Zp)
+[(2022 TPAMI)Domain Generalization: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9847099&casa_token=mmcxxknWmtEAAAAA:fA4IEdOXF1Y6iNa6RKsVay5P5p98OyyIRh2f8X-AsL2MSfyvEzemK3Yz0Y0z6TtNiebhgM9_e7Zp)
 
 [(2023TKDE)Generalizing to Unseen Domains: A Survey on Domain Generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9782500&casa_token=AGiReRMW9hIAAAAA:eRm8xUxDyaZoud8QsQrkIfZ1jocOLM6AZTOuhE9wuDc2oSzGxvQUmM6IoiaObDNuLHS0eCoMnCgR)
 
