@@ -12,4 +12,4 @@ This is the list of notes of the mathematical tool I've recently learned.
 
 # UMich EECS551 notes
 
-forthcoming...
+[week1](https://zitao-shuai.github.io/notes/EECS551week1)
