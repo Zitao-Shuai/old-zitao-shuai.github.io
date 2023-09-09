@@ -9,3 +9,5 @@ This is a list of notes of my interested topics in Trustworthy AI.
 [Continual Learning and Stream Data](https://zitao-shuai.github.io/notes/paper_continual)
 
 [Causal Learning](https://zitao-shuai.github.io/notes/paper_causal)
+
+[Multi-Modal Learning](https://zitao-shuai.github.io/notes/paper_mm)
