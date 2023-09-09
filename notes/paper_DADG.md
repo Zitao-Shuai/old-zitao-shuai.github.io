@@ -1,7 +1,10 @@
 This is a list of notes about the papers of Domain Adaptation and Domain Generalization I've recently read.
-# Domain adaptation
+# Survey
+There are some help surveys.
+[(2022 TPAMI)https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9847099&casa_token=mmcxxknWmtEAAAAA:fA4IEdOXF1Y6iNa6RKsVay5P5p98OyyIRh2f8X-AsL2MSfyvEzemK3Yz0Y0z6TtNiebhgM9_e7Zp&tag=1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9847099&casa_token=mmcxxknWmtEAAAAA:fA4IEdOXF1Y6iNa6RKsVay5P5p98OyyIRh2f8X-AsL2MSfyvEzemK3Yz0Y0z6TtNiebhgM9_e7Zp&tag=1)
+[(2023TKDE)Generalizing to Unseen Domains: A Survey on Domain Generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9782500&casa_token=AGiReRMW9hIAAAAA:eRm8xUxDyaZoud8QsQrkIfZ1jocOLM6AZTOuhE9wuDc2oSzGxvQUmM6IoiaObDNuLHS0eCoMnCgR)
 
-## methods
+# Domain adaptation
 
 [Incremental Adversarial Domain Adaptation for Continually Changing Environments](https://zitao-shuai.github.io/notes/domain_adaptation_methods_1)
 
