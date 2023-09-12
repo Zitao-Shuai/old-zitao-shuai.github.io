@@ -1,6 +1,6 @@
 This is the list of notes of the mathematical tool I've recently learned.
 
-# Machine Learning Theory (based on Stanford cs229M)
+# Machine Learning Theory CS229M
 
 [Introduction](https://zitao-shuai.github.io/notes/lecture_1)
 
@@ -8,8 +8,14 @@ This is the list of notes of the mathematical tool I've recently learned.
 
 # UMich EECS501 notes
 
+Includes materials from the course notes by Prof. Ying Lei
+
 [week1](https://zitao-shuai.github.io/notes/EECS501week1)
 
+[week2](https://zitao-shuai.github.io/notes/EECS501week2)
+
 # UMich EECS551 notes
+
+Includes materials from the course notes by Prof. Jeffrey Fessler
 
 [week1](https://zitao-shuai.github.io/notes/EECS551week1)
