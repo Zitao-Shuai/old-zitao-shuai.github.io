@@ -14,6 +14,8 @@ Includes materials from the course notes by Prof. Ying Lei
 
 [week2](https://zitao-shuai.github.io/notes/EECS501week2)
 
+[week3](https://zitao-shuai.github.io/notes/EECS501week3)
+
 # UMich EECS551 notes
 
 Includes materials from the course notes by Prof. Jeffrey Fessler
