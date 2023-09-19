@@ -40,19 +40,17 @@ A matrix is diagonalizable iff each Jordan block is a 1by1 matrix.
 
 ![image-20230911094040605](asset/image-20230911094040605.png)
 
-## Norm
+## Norms, Eigenvalues and Optimization Problems
 
 ![image-20230911094109154](asset/image-20230911094109154.png)
 
+![image-20230919090250163](asset/image-20230919090250163.png)
 
+![image-20230919090300760](asset/image-20230919090300760.png)
 
+![image-20230919090755031](asset/image-20230919090755031.png)
 
+![image-20230919090841889](asset/image-20230919090841889.png)
 
-
-
-
-
-
-
-
+![image-20230919093442314](asset/image-20230919093442314.png)
 
