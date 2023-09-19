@@ -20,6 +20,6 @@ Includes materials from the course notes by Prof. Ying Lei
 
 Includes materials from the course notes by Prof. Jeffrey Fessler
 
-[week1](https://zitao-shuai.github.io/notes/EECS551week1)
+[week1.mat](https://zitao-shuai.github.io/notes/EECS551week1)
 
-[week2](https://zitao-shuai.github.io/notes/EECS551week2)
+[week2.eigen](https://zitao-shuai.github.io/notes/EECS551week2)
