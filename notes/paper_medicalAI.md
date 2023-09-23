@@ -8,3 +8,5 @@ Currently, I'm interested in these topics.
 # NeFR
 
 [NeRF](https://zitao-shuai.github.io/notes/NeRF)
+
+[Block_NeRF](https://zitao-shuai.github.io/notes/Block_NeRF)
