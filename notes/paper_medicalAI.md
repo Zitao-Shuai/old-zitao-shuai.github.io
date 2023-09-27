@@ -17,3 +17,5 @@ Currently, I'm interested in these topics.
 # Diffusion Model
 
 [DDPM](https://zitao-shuai.github.io/notes/DDPM)
+
+[diffusion_posterior](https://zitao-shuai.github.io/notes/diffusion_posterior)
