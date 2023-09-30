@@ -1,6 +1,6 @@
 This is the list of notes of the mathematical tool I've recently learned.
 
-# Machine Learning Theory CS229M
+# STF CS229M
 
 [Introduction](https://zitao-shuai.github.io/notes/lecture_1)
 
