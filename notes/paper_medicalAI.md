@@ -20,6 +20,6 @@ Currently, I'm interested in these topics.
 
 [diffusion_posterior](https://zitao-shuai.github.io/notes/diffusion_posterior)
 
-[PixelNeRF](https://zitao-shuai.github.io/notes/PixelNeRF)
+[PixelNERF](https://zitao-shuai.github.io/notes/PixelNeRF)
 
 [Video_diffusion](https://zitao-shuai.github.io/notes/Video_diffusion)
