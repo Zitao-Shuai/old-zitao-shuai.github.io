@@ -26,3 +26,7 @@ Currently, I'm interested in these topics.
 [Geo_diffusion](https://zitao-shuai.github.io/notes/Geo_diffusion)
 
 [img_to_img_bridge](https://zitao-shuai.github.io/notes/img_to_img_bridge)
+
+[DiffusionDet](https://zitao-shuai.github.io/notes/DiffusionDet)
+
+[latent_point_diffusion](https://zitao-shuai.github.io/notes/latent_point_diffusion)
