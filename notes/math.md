@@ -31,3 +31,5 @@ Includes materials from the course notes by Prof. Jeffrey Fessler
 [week1_2summary](https://zitao-shuai.github.io/notes/EECS551week1_2summary)
 
 [week3_4.subspace](https://zitao-shuai.github.io/notes/EECS551week3)
+
+[week6_6.LLS](https://zitao-shuai.github.io/notes/EECS551week5_6)
