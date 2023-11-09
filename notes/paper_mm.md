@@ -12,6 +12,19 @@ Currently I'm interested in this topics.
 
 [CLIP](https://zitao-shuai.github.io/notes/CLIP)
 
+[BLIP](https://zitao-shuai.github.io/notes/BLIP)
+
+[ImageBind](https://zitao-shuai.github.io/notes/ImageBind)
+
+[ALBEF](https://zitao-shuai.github.io/notes/ALBEF)
+
 # Medical Large Model
 
 [BioViLT](https://zitao-shuai.github.io/notes/BioViLT)
+
+[Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing](https://zitao-shuai.github.io/notes/Make_most)
+
+[Gloria](https://zitao-shuai.github.io/notes/Gloria)
+
+[MedCLIP](https://zitao-shuai.github.io/notes/MedCLIP)
+
