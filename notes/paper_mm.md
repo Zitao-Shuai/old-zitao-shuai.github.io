@@ -28,3 +28,14 @@ Currently I'm interested in this topics.
 
 [MedCLIP](https://zitao-shuai.github.io/notes/MedCLIP)
 
+# Transformers and LLM
+
+[Language Models are Few-Shot Learners](https://zitao-shuai.github.io/notes/Language Models are Few-Shot Learners)
+
+[Training language models to follow instructions](https://zitao-shuai.github.io/notes/Training language models to follow instructions)
+
+[Language Models are Few-Shot Learners](https://zitao-shuai.github.io/notes/Language Models are Few-Shot Learners)
+
+[SAM](https://zitao-shuai.github.io/notes/SAM)
+
+
