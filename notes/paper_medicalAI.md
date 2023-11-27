@@ -30,3 +30,10 @@ Currently, I'm interested in these topics.
 [DiffusionDet](https://zitao-shuai.github.io/notes/DiffusionDet)
 
 [latent_point_diffusion](https://zitao-shuai.github.io/notes/latent_point_diffusion)
+
+# Other Applications
+
+[molecular_clf](https://zitao-shuai.github.io/notes/molecular_clf)
+
+[predict risk of pancreatic cancer](https://zitao-shuai.github.io/notes/predict risk of pancreatic cancer)
+
