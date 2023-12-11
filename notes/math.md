@@ -8,28 +8,7 @@ This is the list of notes of the mathematical tool I've recently learned.
 
 # UMich EECS501 notes
 
-Includes materials from the course notes by Prof. Ying Lei
-
-[week1](https://zitao-shuai.github.io/notes/EECS501week1)
-
-[week2](https://zitao-shuai.github.io/notes/EECS501week2)
-
-[week3](https://zitao-shuai.github.io/notes/EECS501week3)
-
-[week4 & 5](https://zitao-shuai.github.io/notes/EECS501week4)
-
-[week6](https://zitao-shuai.github.io/notes/EECS501week6)
 
 # UMich EECS551 notes
 
-Includes materials from the course notes by Prof. Jeffrey Fessler
 
-[week1.mat](https://zitao-shuai.github.io/notes/EECS551week1)
-
-[week2.eigen](https://zitao-shuai.github.io/notes/EECS551week2)
-
-[week1_2summary](https://zitao-shuai.github.io/notes/EECS551week1_2summary)
-
-[week3_4.subspace](https://zitao-shuai.github.io/notes/EECS551week3)
-
-[week6_6.LLS](https://zitao-shuai.github.io/notes/EECS551week5_6)
