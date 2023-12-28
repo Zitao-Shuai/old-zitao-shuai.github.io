@@ -12,11 +12,18 @@ My current research interests are `Trustworthy AI`/`AI for Science` currently.
 [1] Zhang F\*, Shuai Z\*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
 
 ## Research
+### `Heteroneneity on Biomedical Multi-Modal Pre-training`
+
+- Timeline: Nov 2023-present
+- Institution: Biomedical-AI Lab, UMich
+- Instructor: prof.[Liyue Shen](https://liyueshen.engin.umich.edu/)
+-	Motivation: on-going project.
+  
 ### `Longitudinal Study of Biomedical Vision-Language Pre-training`
 
 - Timeline: Oct 2023-Nov 2023
 - Institution: Biomedical-AI Lab, UMich
-- Instructor: [Liyue Shen](https://liyueshen.engin.umich.edu/)
+- Instructor: prof.[Liyue Shen](https://liyueshen.engin.umich.edu/)
 -	Motivation: Biomedical Vision-Language Pretraining typically pairs single images with text, but overlooks temporal and localized changes in medical data, thus limiting its effectiveness for complex real-world clinical applications.
 -	Product: A CVPR 2024 submitted paper, 2nd author.
 
