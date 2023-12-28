@@ -9,7 +9,7 @@ Currently, I'm a master's student in the EECS department at the [University of M
 My current research interests are `Trustworthy AI`/`AI for Science` currently. 
 ## Publication
 
-[1] Zhang F*, Shuai Z*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
+[1] Zhang F\*, Shuai Z\*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
 
 ## Research
 ### `Longitudinal Study of Biomedical Vision-Language Pre-training`
