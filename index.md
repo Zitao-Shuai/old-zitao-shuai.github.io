@@ -4,9 +4,12 @@
 
 ## Biography
 
-Currently, I'm a master's student at the [University of Michigan](https://umich.edu/), majoring in Electrical and Computer Engineering (in the machine learning and image processing track). I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by [prof. Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU and [prof. Xiaobin Liu](https://person.zju.edu.cn/en/0018064) in the [College of Economy](http://www.cec.zju.edu.cn/cecen/main.psp) of ZJU. 
+Currently, I'm a master's student in the EECS department at the [University of Michigan](https://umich.edu/). Currently, I'm advised by Prof.[Liyue Shen](https://liyueshen.engin.umich.edu/) in the University of Michigan and I'm working closely with Prof.[Kun Kuang](https://kunkuang.github.io/) Zhejiang University I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by Prof.[Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU and Prof.[Xiaobin Liu](https://person.zju.edu.cn/en/0018064) in the [College of Economy](http://www.cec.zju.edu.cn/cecen/main.psp) of ZJU. 
 
 My current research interests are `Trustworthy AI`/`AI for Science` currently. 
+## Publication
+
+[1] Zhang F*, Shuai Z*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
 
 ## Research
 ### `Unified Fair Federated Learning for Digital Healthcare`
@@ -16,9 +19,7 @@ My current research interests are `Trustworthy AI`/`AI for Science` currently.
 - Instructor: [prof. Kun Kuang](https://kunkuang.github.io/)
 -	Motivation: To ensure fairness in federated learning with healthcare institutions, we employ distributionally robust optimization to achieve consistent and high-performing federated models among diverse demographics.
 -	Contribution: presents a unified framework encompassing various fairness metrics in federated learning and devises an efficient and collaborative machine learning procedure for its implementation.
--	Role: implement the idea and perform the experiments
--	Product: A Cell Press Pattern 2023 submitted paper, co-first author.
-
+-	Product: A paper published in Cell Press Pattern 2023, co-first author.
 
 ### `Continual Domain Generalization`
 
@@ -40,16 +41,6 @@ My current research interests are `Trustworthy AI`/`AI for Science` currently.
 -	Role: Implement the Deep Thinking Map prototype based on the Concept Map developed in our lab; help organize pilot experiments; literature surveying
 
 
-### Machine Learning-Based Volatility Prediction
-
-- Timeline: Mar 2022 - Mar 2023
-- Institution: School of Economics, ZJU
-- Instructor: [prof. Xingguo Luo](https://person.zju.edu.cn/en/xingguo)
--	Motivation: Predicting trends in the high-frequency market suffers from the disturbance of the noisy trader. Based on the view of the latent factor model, the latent proxy(or representation) or the input data should be robust to the noisy signals.
--	Method: We utilize an Auto-Encoder to construct the latent factor model for asset pricing. In order to learn stable proxies that generalize well on multiple market states, we utilize the contrastive learning approach to remove the influence of the noisy signals. To model the disturbance of the noises, we use a momentum-optimized encoder to generate pseudo representations for contrastive loss.
--	Contribution: Based on the prospect of market micro-structure under the high-frequency setting, we consider the effect of noisy trading signals and utilize the machine learning method to remove the unwanted factors. Experiment results have verified the efficiency of our method, and our model has successfully captured the non-linear stable relationships between trends and the input trading data.
--	Product: A working paper, 1st author.
-
 ### `Spatio-temporal Data Compression`
 
 - Timeline: Jul-Sept 2021
@@ -61,16 +52,13 @@ My current research interests are `Trustworthy AI`/`AI for Science` currently.
 
 ## Awards
 
-- Meritorious Winner in Mathematical Contest in Modeling
-- The Second Prize of Zhejiang University
-- The Second Prize in The Chinese Mathematics Competitions
 - Outstanding Graduate of Zhejiang University
+- Meritorious Winner in Mathematical Contest in Modeling
+
 
 ## Notes & ideas
 
 [notes for paper](https://zitao-shuai.github.io/notes/paper)
-
-[notes for math](https://zitao-shuai.github.io/notes/math)
 
 [notes for presentation](https://zitao-shuai.github.io/notes/pre)
 
