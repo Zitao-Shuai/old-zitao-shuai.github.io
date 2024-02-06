@@ -4,20 +4,22 @@
 
 ## Biography
 
-Currently, I'm a master's student in the EECS department at the [University of Michigan](https://umich.edu/). Currently, I'm advised by Prof.[Liyue Shen](https://liyueshen.engin.umich.edu/) in the University of Michigan and I'm also collaborate with Prof.[Kun Kuang](https://kunkuang.github.io/)'s group in Zhejiang University. I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by Prof.[Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU and Prof.[Xiaobin Liu](https://person.zju.edu.cn/en/0018064) in the [College of Economy](http://www.cec.zju.edu.cn/cecen/main.psp) of ZJU. 
+Currently, I'm a master's student in the EECS department at the [University of Michigan](https://umich.edu/). Currently, I'm advised by Prof.[Liyue Shen](https://liyueshen.engin.umich.edu/) in the University of Michigan and I'm also collaborate with Prof.[Kun Kuang](https://kunkuang.github.io/)'s group in Zhejiang University. I got my bachelor's degree in Computer Science and my bachelor's degree in Finance from [Zhejiang University](https://www.zju.edu.cn/english/). And I'm also a member of [CKC Honors College](http://ckc.zju.edu.cn/ckcen/). During my undergraduate, I was advised by Prof.[Kun Kuang](https://kunkuang.github.io/) in the [Department of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of ZJU. 
 
 My current research interests are `Multi-modal Learning`/`Trustworthy AI`/`AI for Science` currently. 
 ## Publication
 
 [1] Zhang F\*, Shuai Z\*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
 
+[2] Zitao Shuai, Liyue Shen. Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training. 41st International Conference on Machine Learning. Submitted on Feb 1st, 2023.
+
 ## Research
 ### `Heteroneneity on Biomedical Multi-Modal Pre-training`
 
-- Timeline: Nov 2023-present
+- Timeline: Nov 2023-Jan 2024
 - Institution: Biomedical-AI Lab, UMich
 - Instructor: prof.[Liyue Shen](https://liyueshen.engin.umich.edu/)
--	Motivation: on-going project.
+-	Product: A ICML 2024 submitted paper, 1st author.
   
 ### `Longitudinal Study of Biomedical Vision-Language Pre-training`
 
