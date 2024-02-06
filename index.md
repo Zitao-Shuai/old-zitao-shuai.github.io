@@ -11,7 +11,7 @@ My current research interests are `Multi-modal Learning`/`Trustworthy AI`/`AI fo
 
 [1] Zhang F\*, Shuai Z\*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
 
-[2] Zitao Shuai, Liyue Shen. Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training. 41st International Conference on Machine Learning. Submitted on Feb 1st, 2023.
+[2] Zitao Shuai, Liyue Shen. Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training. 41st International Conference on Machine Learning (ICML). Submitted on Feb 1st, 2023.
 
 ## Research
 ### `Heteroneneity on Biomedical Multi-Modal Pre-training`
@@ -19,6 +19,7 @@ My current research interests are `Multi-modal Learning`/`Trustworthy AI`/`AI fo
 - Timeline: Nov 2023-Jan 2024
 - Institution: Biomedical-AI Lab, UMich
 - Instructor: prof.[Liyue Shen](https://liyueshen.engin.umich.edu/)
+- Motivation: Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training
 -	Product: A ICML 2024 submitted paper, 1st author.
   
 ### `Longitudinal Study of Biomedical Vision-Language Pre-training`
