@@ -11,7 +11,6 @@ My current research interests are `Multi-modal Learning`/`Trustworthy AI`/`AI fo
 
 [1] Zhang F\*, Shuai Z\*, Kuang K, et al. Unified fair federated learning for digital healthcare[J]. Patterns, 2024, 5(1). [Subjournal of Cell Press]
 
-[2] Zitao Shuai, Liyue Shen. Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training. 41st International Conference on Machine Learning (ICML). Submitted on Feb 1st, 2024.
 
 ## Research
 ### `Heteroneneity on Biomedical Multi-Modal Pre-training`
